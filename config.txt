@@ -1,0 +1,3 @@
+owner=467023853848231938
+prefix = *
+token=NTQ5MzE1NTEyNzgyNTUzMDk5.D1SGMw.io1xqHPPt2DZ3njly_04TvkXxZs
